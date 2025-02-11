@@ -33,9 +33,12 @@ Among the technology used for this project are as follows:
 
 - Microsoft Azure Services:
   1. Storage Account
+     ![Storage Account](storage_containers.png)
   2. Data Factory (V2)
   3. Azure Databricks
+     ![Databricks](databricks.png)
   4. Synapse Analytics
+     ![Synapse](Synapse.png)
   5. Power BI
 
 ## Dataset Used
@@ -53,9 +56,13 @@ To review my dashboard from this project can just review : https://github.com/ye
 
 Page Highlight:
 1. To show overall standing of Country that participate in the Tokyo Olympics.
+   ![Page 1](powerbitokyopage1.png)
 2. To give insight the difference between male and female participant by discipline.
+   ![Page 2](powerbitokyopage2.png)
 3. To give insight on how much participant from each country.
+   ![Page 3](powerbitokyopage3.png)
 4. To give insight of breakdown of discipline of sport by Country and athletes that participate in that discipline.
+   ![Page 4](powerbitokyopage4.png)
 
 
   
