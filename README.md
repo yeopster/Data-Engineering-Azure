@@ -26,7 +26,7 @@ Then we can export the data from Azure Blob Storage to PowerBI.
 
 ## Tools Used
 Among the technology used for this project are as follows:
-- Programming Languanges:
+- Programming Languages:
   1. Python
   2. Pyspark
   3. SQL
